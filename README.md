@@ -4,32 +4,34 @@
 
 ## CONTENTS
 
-    [1] INTRODUCTION
+    1 INTRODUCTION
     
-    [2] SCOPE	
+    2 SCOPE	
     
-    [3] REBOOT GAMES
+    3 REBOOT GAMES
       Structure
       Hardware and Software
       
-    [4] RISKS
+    4 RISKS
+      Types
+      
     
-    [5] POLICIES 
+    5 POLICIES 
     
-    [6] PROCEDURES
+    6 PROCEDURES
     
-    [7] RESPONSIBILITIES	
+    7 RESPONSIBILITIES	
      Compliance, monitoring and review	
      Reporting	
      Records management	
 
-    [8] RELATED LEGISLATION AND DOCUMENTS	
+    8 RELATED LEGISLATION AND DOCUMENTS	
 
-    [9] FEEDBACK
+    9 FEEDBACK
 
-    [10] APPROVAL AND REVIEW DETAILS	
+    10 APPROVAL AND REVIEW DETAILS	
 
-    [11] APPENDIX <or APPENDICES> <delete if not required>	
+    11 APPENDIX <or APPENDICES> <delete if not required>	
 
 
 
