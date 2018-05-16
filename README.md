@@ -5,22 +5,19 @@
 
     1 INTRODUCTION
     
-    2	SCOPE	
+    2 SCOPE	
     
     3 REBOOT GAMES
-    
-      STRUCTURE
+      Structure
+      Hardware and Software
       
-      HARDWARE AND SOFTWARE
-
-    4	RISKS
+    4 RISKS
     
     5 POLICIES 
     
     6 PROCEDURES
     
-    7	RESPONSIBILITIES	
-     
+    7 RESPONSIBILITIES	
      Compliance, monitoring and review	
      Reporting	
      Records management	
