@@ -13,9 +13,13 @@
       Hardware and Software
       
     4 RISKS
-      Types
-      
-    
+      Human Risks
+      Physical Risks
+      Internal 
+      External 
+      Software Based
+
+#### Social engineering
     5 POLICIES 
     
     6 PROCEDURES
@@ -68,3 +72,16 @@ System type - 64-bit operating system, x64-based processor
 
 #### [4] RISKS
 
+#### [4.1] Human Risks
+
+#### [4.2] Physical Risks
+
+#### [4.3] Internal 
+
+#### [4.4] External 
+
+#### [4.5] Software Based
+
+#### [4.6] Social engineering
+
+#### [4.7] Human Risk
