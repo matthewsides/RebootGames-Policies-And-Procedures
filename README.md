@@ -18,8 +18,8 @@
       Internal 
       External 
       Software Based
-
-#### Social engineering
+      Social engineering
+      
     5 POLICIES 
     
     6 PROCEDURES
@@ -52,11 +52,11 @@ This documentation is meant to be read by the employees under the organisation R
 
 #### [3] REBOOT GAMES
 
-#### [3.1] Structure
+####  Structure
 
 Reboot Games comprises of two levels of access, Tutor and Student. The two levels are coequal or equipotent in a Hierachy, exempt a few rules.The amount of tutors tally to three, whilst the number of students amounts to thirteen.  
 
-#### [3.2] Hardware and Software
+####  Hardware and Software
 
 LG - 29UM68-P - 29" 21:9 UltraWide® Full HD IPS LED Monitor (29" Diagonal)
 
@@ -72,16 +72,16 @@ System type - 64-bit operating system, x64-based processor
 
 #### [4] RISKS
 
-#### [4.1] Human Risks
+####  Human Risks
 
-#### [4.2] Physical Risks
+####  Physical Risks
 
-#### [4.3] Internal 
+####  Internal 
 
-#### [4.4] External 
+####  External 
 
-#### [4.5] Software Based
+#### Software Based
 
-#### [4.6] Social engineering
+####  Social engineering
 
-#### [4.7] Human Risk
+#### Human Risk
