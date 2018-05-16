@@ -1,7 +1,7 @@
 # RebootGames-Policies-And-Procedures
 
 
-## CONTENTS
+- ## CONTENTS
 
 1 INTRODUCTION
 
@@ -29,5 +29,5 @@ Terms and definitions <delete if not required>
 
 9	APPROVAL AND REVIEW DETAILS	
 
-10	APPENDIX <or APPENDICES> <delete if not required>	
+10	APPENDIX <or APPENDICES> <delete if not required>	-
 
