@@ -3,31 +3,33 @@
 
 ## CONTENTS
 
-1 INTRODUCTION
+    1 INTRODUCTION
+    
+    2	SCOPE	
+    
+    3 REBOOT GAMES
+    
+      STRUCTURE
+      
+      HARDWARE AND SOFTWARE
 
-1	PURPOSE	
+    4	RISKS
+    
+    5 POLICIES 
+    
+    6 PROCEDURES
+    
+    7	RESPONSIBILITIES	
+     
+     Compliance, monitoring and review	
+     Reporting	
+     Records management	
 
-2	SCOPE	
+   8	RELATED LEGISLATION AND DOCUMENTS	
 
-3	POLICY STATEMENT	
-<Sub-headings are not numbered>	
+   9	FEEDBACK
 
-4	PROCEDURE	
-<Sub-headings are not numbered>	
+  10	APPROVAL AND REVIEW DETAILS	
 
-5	RESPONSIBILITIES	
-Compliance, monitoring and review	
-Reporting	
-Records management	
-
-6	DEFINITIONS	
-Terms and definitions <delete if not required>	
-  
-7	RELATED LEGISLATION AND DOCUMENTS	
-
-8	FEEDBACK
-
-9	APPROVAL AND REVIEW DETAILS	
-
-10	APPENDIX <or APPENDICES> <delete if not required>	
+  11	APPENDIX <or APPENDICES> <delete if not required>	
 
