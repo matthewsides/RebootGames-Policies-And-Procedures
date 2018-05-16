@@ -31,3 +31,9 @@
 
     11 APPENDIX <or APPENDICES> <delete if not required>	
 
+
+
+
+### Introduction
+
+This document outlines the companys internal structure, factoring potential risks and sets the Policy and Procedures for Reboot Games. This is for the protection of the organisations employees, intelectual property, systems and defining baseline responsibilities for Reboot games security, equipment and file storage. "Systems" refers to the IT network, hardware including portable media, system and application software, communication components including telephone and WAN systems, documentation, physical environment and other information assets. It does not include IT systems not connected to Reboot Games.
