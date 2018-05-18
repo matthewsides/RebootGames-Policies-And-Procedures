@@ -78,6 +78,9 @@ Physical risks pertain to; fires, floods, natural disasters, burglary, theft, va
 
 ####  Internal 
 
+An internal risk is a risk that arises from the events taking place within a organistion.Internal risks are usually forecasted with some reliablity thus not likely to appear often. Internal risks may be linked to three other risk factors; Human, Physical and Technological (defined in this documentation).
+
+
 ####  External 
 
 #### Software Based
