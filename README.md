@@ -87,7 +87,7 @@ External risks are those that arise from events outside of the organization's co
 
 #### Software Based
 
-
+Software risk encompasses the probability of occurrence for uncertain events and their potential for loss within an organization.As organizations continue to implement more applications across a multiple technology, multi-tiered environment the risks that sofware heralds increase.
 
 #### Social engineering
 
