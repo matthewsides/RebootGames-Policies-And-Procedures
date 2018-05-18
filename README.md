@@ -41,17 +41,17 @@
 
 
 
-#### [1] INTRODUCTION
+### [1] INTRODUCTION
 
 This document outlines the companys internal structure, factoring potential risks and sets the Policy and Procedures for Reboot Games. This is for the protection of the organisations employees, intelectual property, systems and defining baseline responsibilities for Reboot games security, equipment and file storage. "Systems" refers to the IT network, hardware including portable media, system and application software, communication components including telephone and WAN systems, documentation, physical environment and other information assets. It does not include IT systems not connected to Reboot Games.
 
 
-#### [2] SCOPE 
+### [2] SCOPE 
 
 This documentation is meant to be read by the employees under the organisation RebootGames. An information and technology company under the guise of Games design.
 
 
-#### [3] REBOOT GAMES
+### [3] REBOOT GAMES
 
 ####  Structure
 
@@ -71,7 +71,7 @@ Installed RAM - 16.0 GB
 
 System type - 64-bit operating system, x64-based processor 
 
-#### [4] RISKS
+### [4] RISKS
 
 ####  Physical Risks
 
@@ -98,7 +98,7 @@ Social engineering refers to the exploitation of human psychological and people'
 
 Human Risk is essentially a broad term for purposeful or accidental  events caused by a human that may affect an organisation's operational status and financial results. This encompassess all aspects or risk factors (internal, external, software based, social engineering, physical, generally all stem from a humans mistakes or malicious intentions).
 
-#### [5] POLICIES  PROCEDURES
+### [5] POLICIES  PROCEDURES
 
 #### Data Protection Policy 
 
@@ -110,39 +110,8 @@ Reboot games has a right to inform their employees as to how their personal info
 
 The type of information that we may be required to handle include details of job applicants, current, past and prospective employees and other individuals that we communicate with. The information, which may be held on paper or on a computer or other media, is subject to certain legal safeguards specified in the GDPR and other legislation. The GDPR imposes restrictions on how we may use that information.
 
-This policy does not form part of any employee’s contract of employment and may be amended at any time. Any breach of this policy by members of staff will be taken seriously and may result in disciplinary action and serious breaches may result in dismissal. Breach of the GDPR may expose Reboot Games to enforcement action by the Information Commissioner’s Office (ICO), including the risk of fines. Furthermore, certain breaches of the Act can give rise to personal criminal liability for the companys employees. At the very least, a breach of the GDPR could damage Reboot Games reputation and have serious consequences for Reboot games and the stakeholders.
+This policy does not form part of any employee’s contract and may be amended at any time. Any breach of this policy by members of staff will be taken seriously and may result in disciplinary action and serious breaches may result in dismissal. Breach of the GDPR may expose Reboot Games to enforcement action by the Information Commissioner’s Office (ICO), including the risk of fines. Furthermore, certain breaches of the Act can give rise to personal criminal liability for the companys employees. At the very least, a breach of the GDPR could damage Reboot Games reputation and have serious consequences for Reboot games and the stakeholders.
 
 
-##### What is Personal Information/ data?
-
-Personal information or data is information which relates to a living individual who can be identified from that data, in addition to other information available to them. Personal data includes (but is not limited to) an individual’s, name, address, date
-of birth, photograph, bank details and other information that identifies them.
-
-##### Data protection principles
-
-The company needs to keep certain information about its employees, customers and suppliers for financial and commercial reasons and to enable us to monitor performance, to ensure legal compliance and for health and safety purposes. To comply with the law, information must be collected and used fairly, stored safely and not disclosed to any other person unlawfully. This means that we must comply with the Data Protection Principles set out in the Data Protection Act, 1998.
-
-These principles require that personal data must be:
-
-• obtained fairly and lawfully and shall not be processed unless certain conditions
-are met;
-
-• obtained for specified and lawful purposes and not further processed in a
-manner incompatible with that purpose;
-
-• adequate, relevant and not excessive;
-
-• accurate and up to date;
-
-• kept for no longer than necessary;
-
-• processed in accordance with data subjects’ rights;
-
-• protected by appropriate security;
-
-• not transferred to a country outside the European Union without adequate
-protection.
-
-In processing or using any personal information theses principles must be followed at all times.
 
 
