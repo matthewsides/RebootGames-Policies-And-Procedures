@@ -171,8 +171,43 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 
 • We are required to verify the identity of an individual requesting data under any of the rights listed above. Members of staff should not allow third parties to persuade them into disclosing Personal Data without proper authorisation.
 
+#### [7] RESPONSIBILITIES	
 
+##### Data Protection Officer
 
+The Data Protection Officer (the “DPO”) is responsible for ensuring Reboot Games is compliant with the GDPR and with this policy.Any questions or concerns about the operation of this policy should be referred in the first instance to the DPO.
+
+The DPO will play a major role in embedding essential aspects of the GDPR into the company, from ensuring the data protection principles are respected to preserving data subject rights, recording data processing activities and ensuring the security of
+processing.
+
+The DPO should be involved, in a timely manner, in all issues relating to the protection of personal data. To do this, the GDPR requires that DPOs are provided with the necessary support and resources to enable the DPO to effectively carry out their tasks. Factors that
+should be considered include the following:
+
+•senior management support;
+
+•time for DPOs to fulfil their duties;
+
+•adequate financial resources, infrastructure (premises, facilities and equipment) and staff where appropriate;
+
+•official communication of the designation of the DPO to make known existence and function within the organisation;
+
+•access to other services, such as HR, IT and security, who should provide support to the DPO;
+
+•continuous training so that DPOs can stay up to date with regard to data protection developments;
+
+•where a DPO team is deemed necessary, a clear infrastructure detailing roles and responsibilities of each team member;
+
+•whether the company should give the DPO access to external legal advice to advise the DPO on their responsibilities under this Data Protection Policy.
+
+•The DPO is responsible for ensuring that the organisations processing operations adequately safeguard Personal Data, in line with legal requirements. This means that the governance structure within the organisation must ensure the independence of the DPO.
+
+• Reboot Games will ensure that the DPO does not receive instructions in respect of the carrying out of their tasks, which means that the DPO must not be instructed how to deal with a matter, such as how to investigate a complaint or what result should be achieved.
+
+• Further, the DPO should report directly to the highest management level (ensures that HML are made aware of the pertinent data protection issues).
+
+• A DPO appointed internally by Reboot Games is permitted to undertake other tasks and duties for the organisation, but these must not result in a conflict of interests with his or her role as DPO. It follows that any conflict of interests between the individual's role as DPO and other roles the individual may have within the organisation impinge on the DPO's ability to remain independent.
+
+• In order to avoid conflicts the DPO cannot hold another position within the organisation that involves determining the purposes and means of processing personal data. 
 
 
 
