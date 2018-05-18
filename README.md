@@ -85,4 +85,4 @@ System type - 64-bit operating system, x64-based processor
 
 #### Human Risk
 
-Human Risk is essentially a broad term for purposeful or accidental  events caused by a human that may affect an organisation's operational status and financial results. This encompassess all aspects or factors, being able to be internal or external, etc.
+Human Risk is essentially a broad term for purposeful or accidental  events caused by a human that may affect an organisation's operational status and financial results. This encompassess all aspects or risk factors (internal, external, software based, social engineering, physical, generally all stem from a humans mistakes or malicious intentions).
