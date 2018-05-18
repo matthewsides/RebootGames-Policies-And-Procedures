@@ -83,7 +83,7 @@ An internal risk is a risk that arises from the events taking place within a org
 
 ####  External 
 
-
+External risks are those that arise from events outside of the organization's control. These risks can offer negative and/or positive benefits. Organizations cannot influence the likelihood of these risk events, but can reduce the cost of an impact.
 
 #### Software Based
 
