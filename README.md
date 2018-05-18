@@ -122,28 +122,33 @@ This policy does not form part of any employee’s contract and may be amended a
 
 Anyone processing Personal Data must comply with the enforceable principles of good
 practice. These provide that Personal Data must be:
-5.1.1 processed lawfully, fairly and in a transparent manner in relation to individuals;
-5.1.2 collected for specified, explicit and legitimate purposes and not further
+
+• Processed lawfully, fairly and in a transparent manner in relation to individuals;
+
+• Collected for specified, explicit and legitimate purposes and not further
 processed in a manner that is incompatible with those purposes; further
 processing for archiving purposes in the public interest, scientific or historical
 research purposes or statistical purposes shall not be considered to be
 incompatible with the initial purposes;
-5.1.3 adequate, relevant and limited to what is necessary in relation to the purposes
+
+• Adequate, relevant and limited to what is necessary in relation to the purposes
 for which they are processed;
-5.1.4 accurate and, where necessary, kept up to date; every reasonable step must be
+
+• Accurate and, where necessary, kept up to date; every reasonable step must be
 taken to ensure that Personal Data that are inaccurate, having regard to the
 purposes for which they are processed, are erased or rectified without delay;
-5.1.5 kept in a form which permits identification of Data Subjects for no longer than is
+
+• Kept in a form which permits identification of Data Subjects for no longer than is
 necessary for the purposes for which the Personal Data are processed;
-Personal Data may be stored for longer periods insofar as the Personal Data
+
+• Personal Data may be stored for longer periods insofar as the Personal Data
 will be processed solely for archiving purposes in the public interest, scientific
 or historical research purposes or statistical purposes subject to implementation
 of the appropriate technical and organisational measures required by the GDPR
-in order to safeguard the rights and freedoms of individuals; and
-5.1.6 Processed in a manner that ensures appropriate security of the Personal Data,
-including protection against unauthorised or unlawful processing and against
+in order to safeguard the rights and freedoms of individuals; and Processed in a manner that ensures appropriate security of the Personal Data,including protection against unauthorised or unlawful processing and against
 accidental loss, destruction or damage, using appropriate technical or
 organisational measures.
+
 5.2 Processed lawfully, fairly and in a transparent manner
 5.2.1 The GDPR is intended not to prevent the processing of Personal Data, but to
 ensure that it is done fairly and without adversely affecting the rights of the Data
