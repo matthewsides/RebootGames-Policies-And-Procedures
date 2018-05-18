@@ -120,28 +120,29 @@ This policy does not form part of any employee’s contract and may be amended a
 
 #### Data Protection Procedures
 
-When data is stored on paper, it will be kept in a secure place where unauthorised people cannot see it. The following procedures also apply to data that is usually stored electronically but has been printed out for some reason:
+• When data is stored on paper, it will be kept in a secure place where unauthorised people cannot see it. The following procedures also apply to data that is usually stored electronically but has been printed out for some reason:
 
-When not required, the paper or files will be kept in a lock drawer, cupboard or filing cabinet;
-Employees will make sure paper and printouts are not left where unauthorised people can see them, like on a printer;
+• When not required, the paper or files will be kept in a lock drawer, cupboard or filing cabinet;
 
-Data printouts will be shredded and disposed of securely when no longer required.
+• Employees will make sure paper and printouts are not left where unauthorised people can see them, like on a printer;
 
-When data is stored electronically, it must be protected from unauthorised access, accidental deletion and malicious hacking attempts:
+• Data printouts will be shredded and disposed of securely when no longer required.
 
-Data will be protected by a strong password that is changed regularly and never shared between employees;
+• When data is stored electronically, it must be protected from unauthorised access, accidental deletion and malicious hacking attempts:
 
-If data is stored on removable media (like a CD or DVD), these will be kept locked away securely when not being used;
+• Data will be protected by a strong password that is changed regularly and never shared between employees;
 
-Data will only be stored on a designated drive and server, and will only be uploaded to an approved cloud computing service when if required;
+• If data is stored on removable media (like a CD or DVD), these will be kept locked away securely when not being used;
 
-The secure server is sited in a secure location away from general office space;
+• Data will only be stored on a designated drive and server, and will only be uploaded to an approved cloud computing service when if required;
 
-Data is backed up daily. Backup tests are completed once a week;
+• The secure server is sited in a secure location away from general office space;
 
-Data will not be saved directly to laptops or other media devices like a tablet or smart phone;
+• Data is backed up daily. Backup tests are completed once a week;
 
-Our server and computers containing data are protected by approved security software and a firewall.
+• Data will not be saved directly to laptops or other media devices like a tablet or smart phone;
+
+• Our server and computers containing data are protected by approved security software and a firewall.
 
 
 
