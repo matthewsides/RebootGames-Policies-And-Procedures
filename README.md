@@ -72,11 +72,8 @@ System type - 64-bit operating system, x64-based processor
 
 #### [4] RISKS
 
-####  Human Risks
-
-Human 
-
 ####  Physical Risks
+
 
 ####  Internal 
 
@@ -86,4 +83,4 @@ Human
 
 ####  Social engineering
 
-#### Human Risk
+#### Human Risks
