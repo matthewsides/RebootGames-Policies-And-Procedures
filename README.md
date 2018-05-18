@@ -108,4 +108,41 @@ It is a legal requirement for the company to comply with the Data Protection Act
 
 This policy sets out how the company deals with personal information correctly and securely and in accordance with the Data Protection Act 1998, and other related legislation
 
+This policy applies to all personal information however it is collected, used, recorded and stored and whether it is held on paper or electronically.
+
+All company staff are involved with the collection, use, processing or disclosure of personal data will be aware of their duties and responsibilities and will adhere to this policy.
+
+
+##### What is Personal Information/ data?
+
+Personal information or data is information which relates to a living individual who can be identified from that data, in addition to other information available to them. Personal data includes (but is not limited to) an individual’s, name, address, date
+of birth, photograph, bank details and other information that identifies them.
+
+##### Data protection principles
+
+The company needs to keep certain information about its employees, customers and suppliers for financial and commercial reasons and to enable us to monitor performance, to ensure legal compliance and for health and safety purposes. To comply with the law, information must be collected and used fairly, stored safely and not disclosed to any other person unlawfully. This means that we must comply with the Data Protection Principles set out in the Data Protection Act, 1998.
+
+These principles require that personal data must be:
+
+• obtained fairly and lawfully and shall not be processed unless certain conditions
+are met;
+
+• obtained for specified and lawful purposes and not further processed in a
+manner incompatible with that purpose;
+
+• adequate, relevant and not excessive;
+
+• accurate and up to date;
+
+• kept for no longer than necessary;
+
+• processed in accordance with data subjects’ rights;
+
+• protected by appropriate security;
+
+• not transferred to a country outside the European Union without adequate
+protection.
+
+In processing or using any personal information theses principles must be followed at all times.
+
 
