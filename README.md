@@ -87,6 +87,9 @@ An internal risk is a risk that arises from the events taking place within a org
 
 ####  Social engineering
 
+Social engineering relates to 
+It is important to note and ...
+
 #### Human Risk
 
 Human Risk is essentially a broad term for purposeful or accidental  events caused by a human that may affect an organisation's operational status and financial results. This encompassess all aspects or risk factors (internal, external, software based, social engineering, physical, generally all stem from a humans mistakes or malicious intentions).
