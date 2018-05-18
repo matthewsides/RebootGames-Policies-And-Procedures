@@ -84,6 +84,7 @@ An internal risk is a risk that arises from the events taking place within a org
 ####  External 
 
 
+
 #### Software Based
 
 
