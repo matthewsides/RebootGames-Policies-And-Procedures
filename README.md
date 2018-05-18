@@ -96,3 +96,9 @@ Social engineering refers to the exploitation of human psychological and people'
 #### Human Risk
 
 Human Risk is essentially a broad term for purposeful or accidental  events caused by a human that may affect an organisation's operational status and financial results. This encompassess all aspects or risk factors (internal, external, software based, social engineering, physical, generally all stem from a humans mistakes or malicious intentions).
+
+#### [5] Policies
+
+#### Data Protection Policy 
+
+It is a legal requirement for the company to comply with the Data Protection Act, 1998. It is also Reboot Games policy to ensure that every employee maintains the confidentiality of any personal data held by the company in whatever form.
