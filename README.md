@@ -22,9 +22,7 @@
       
     5 POLICIES 
       Data Protection Policy
-       Policy statement and objectives
-       
-       
+      
        
     6 PROCEDURES
     
