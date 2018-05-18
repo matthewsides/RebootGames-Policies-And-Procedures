@@ -20,21 +20,23 @@
       Software Based
       Social engineering
       
-    5 POLICIES & PROCEDURES
+    5 POLICIES 
       Data Protection Policy
+     
+    6 PROCEDURES
     
-    6 RESPONSIBILITIES	
+    7 RESPONSIBILITIES	
      Compliance, monitoring and review	
      Reporting	
      Records management	
 
-    7 RELATED LEGISLATION AND DOCUMENTS	
+    8 RELATED LEGISLATION AND DOCUMENTS	
 
-    8 FEEDBACK
+    9 FEEDBACK
 
-    9 APPROVAL AND REVIEW DETAILS	
+    10 APPROVAL AND REVIEW DETAILS	
 
-    10 APPENDIX <or APPENDICES> <delete if not required>	
+    11 APPENDIX <or APPENDICES> <delete if not required>	
 
 
 
@@ -96,21 +98,19 @@ Social engineering refers to the exploitation of human psychological and people'
 
 Human Risk is essentially a broad term for purposeful or accidental  events caused by a human that may affect an organisation's operational status and financial results. This encompassess all aspects or risk factors (internal, external, software based, social engineering, physical, generally all stem from a humans mistakes or malicious intentions).
 
-#### [5] POLICIES & PROCEDURES
+#### [5] POLICIES  PROCEDURES
 
 #### Data Protection Policy 
 
-##### Introduction
+##### Policy statement and objectives
 
-It is a legal requirement for the company to comply with the Data Protection Act, 1998. It is also Reboot Games policy to ensure that every employee maintains the confidentiality of any personal data held by the company in whatever form.
+The objectives of this Data Protection Policy are to ensure that Reboot games employees are informed about, and comply with, their obligations under the General Data Protection Regulation (“the GDPR”) and other data protection legislations.
 
-##### Purpose
+Reboot games has a right to inform their employees as to how their personal information is handled. During the course of our activities we will Process personal information about a number of different groups of people and we recognise that we need to treat it in an appropriate and lawful
+manner.
 
-This policy sets out how the company deals with personal information correctly and securely and in accordance with the Data Protection Act 1998, and other related legislation
-
-This policy applies to all personal information however it is collected, used, recorded and stored and whether it is held on paper or electronically.
-
-All company staff are involved with the collection, use, processing or disclosure of personal data will be aware of their duties and responsibilities and will adhere to this policy.
+The type of information that we may be required to handle include details of job applicants, current, past and prospective employees, pupils, parents / carers and other members of pupils’ families, governors, suppliers and other individuals that we
+communicate with. The information, which may be held on paper or on a computer or other media, is subject to certain legal safeguards specified in the GDPR and other legislation. The GDPR imposes restrictions on how we may use that information.
 
 
 ##### What is Personal Information/ data?
