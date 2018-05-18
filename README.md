@@ -98,7 +98,7 @@ Social engineering refers to the exploitation of human psychological and people'
 
 Human Risk is essentially a broad term for purposeful or accidental  events caused by a human that may affect an organisation's operational status and financial results. This encompassess all aspects or risk factors (internal, external, software based, social engineering, physical, generally all stem from a humans mistakes or malicious intentions).
 
-#### [5] POLICIES  PROCEDURES
+#### [5] POLICIES 
 
 #### Data Protection Policy 
 
@@ -113,6 +113,14 @@ The type of information that we may be required to handle include details of job
 This policy does not form part of any employee’s contract and may be amended at any time. Any breach of this policy by members of staff will be taken seriously and may result in disciplinary action and serious breaches may result in dismissal. Breach of the GDPR may expose Reboot Games to enforcement action by the Information Commissioner’s Office (ICO), including the risk of fines. Furthermore, certain breaches of the Act can give rise to personal criminal liability for the companys employees. At the very least, a breach of the GDPR could damage the companys reputation and have serious consequences for Reboot games and our stakeholders.
 
 ##### Data protection principles
+
+
+#### [6]  PROCEDURES
+
+#### Data Protection Procedures
+
+
+
 
 
 
