@@ -11,7 +11,7 @@
     3 REBOOT GAMES
       Structure
       Hardware and Software
-      
+       
     4 RISKS
       Human Risks
       Physical Risks
@@ -22,7 +22,10 @@
       
     5 POLICIES 
       Data Protection Policy
-     
+       Policy statement and objectives
+       
+       
+       
     6 PROCEDURES
     
     7 RESPONSIBILITIES	
