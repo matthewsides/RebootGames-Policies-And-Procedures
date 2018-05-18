@@ -120,30 +120,94 @@ This policy does not form part of any employee’s contract and may be amended a
 
 #### Data Protection Procedures
 
-• When data is stored on paper, it will be kept in a secure place where unauthorised people cannot see it. The following procedures also apply to data that is usually stored electronically but has been printed out for some reason:
+Anyone processing Personal Data must comply with the enforceable principles of good
+practice. These provide that Personal Data must be:
+5.1.1 processed lawfully, fairly and in a transparent manner in relation to individuals;
+5.1.2 collected for specified, explicit and legitimate purposes and not further
+processed in a manner that is incompatible with those purposes; further
+processing for archiving purposes in the public interest, scientific or historical
+research purposes or statistical purposes shall not be considered to be
+incompatible with the initial purposes;
+5.1.3 adequate, relevant and limited to what is necessary in relation to the purposes
+for which they are processed;
+5.1.4 accurate and, where necessary, kept up to date; every reasonable step must be
+taken to ensure that Personal Data that are inaccurate, having regard to the
+purposes for which they are processed, are erased or rectified without delay;
+5.1.5 kept in a form which permits identification of Data Subjects for no longer than is
+necessary for the purposes for which the Personal Data are processed;
+Personal Data may be stored for longer periods insofar as the Personal Data
+will be processed solely for archiving purposes in the public interest, scientific
+or historical research purposes or statistical purposes subject to implementation
+of the appropriate technical and organisational measures required by the GDPR
+in order to safeguard the rights and freedoms of individuals; and
+5.1.6 Processed in a manner that ensures appropriate security of the Personal Data,
+including protection against unauthorised or unlawful processing and against
+accidental loss, destruction or damage, using appropriate technical or
+organisational measures.
+5.2 Processed lawfully, fairly and in a transparent manner
+5.2.1 The GDPR is intended not to prevent the processing of Personal Data, but to
+ensure that it is done fairly and without adversely affecting the rights of the Data
+Subject. The Data Subject must be told who the Data Controller is (in this case 
+6
+the Schools), who the Data Controller’s representative is (in this case the DPO),
+the purpose for which the data is to be Processed by us, and the identities of
+anyone to whom the Data may be disclosed or transferred.
+5.2.2 For Personal Data to be processed lawfully, certain conditions have to be met.
+These may include:
+5.2.2.1 where we have the Consent of the Data Subject;
+5.2.2.2 where it is necessary for compliance with a legal obligation;
+5.2.2.3 where processing is necessary to protect the vital interests of the
+Data Subject or another person;
+5.2.2.4 where it is necessary for the performance of a task carried out in
+the public interest or in the exercise of official authority vested in the
+controller.
+5.2.3 Personal data may only be processed for the specific purposes notified to the
+Data Subject when the data was first collected, or for any other purposes
+specifically permitted by the Act. This means that Personal Data must not be
+collected for one purpose and then used for another. If it becomes necessary to
+change the purpose for which the data is processed, the Data Subject must be
+informed of the new purpose before any processing occurs.
 
-• When not required, the paper or files will be kept in a lock drawer, cupboard or filing cabinet;
 
-• Employees will make sure paper and printouts are not left where unauthorised people can see them, like on a printer;
+##### Processing in line with Data Subjects’ rights
 
-• Data printouts will be shredded and disposed of securely when no longer required.
+Data Subjects have rights when it comes to how we handle their Personal Data. These
+include rights to:
 
-• When data is stored electronically, it must be protected from unauthorised access, accidental deletion and malicious hacking attempts:
+• Withdraw Consent to Processing at any time;
 
-• Data will be protected by a strong password that is changed regularly and never shared between employees;
+• Receive certain information about the Data Controller’s Processing activities;
 
-• If data is stored on removable media (like a CD or DVD), these will be kept locked away securely when not being used;
+• Request access to their Personal Data that we hold;
 
-• Data will only be stored on a designated drive and server, and will only be uploaded to an approved cloud computing service when if required;
+• Prevent our use of their Personal Data for direct marketing purposes;
 
-• The secure server is sited in a secure location away from general office space;
+• Ask us to erase Personal Data if it is no longer necessary in relation to the
+purposes for which it was collected or Processed or to rectify inaccurate data or
+to complete incomplete data;
 
-• Data is backed up daily. Backup tests are completed once a week;
+•Restrict Processing in specific circumstances;
 
-• Data will not be saved directly to laptops or other media devices like a tablet or smart phone;
+•Challenge Processing which has been justified on the basis of our legitimate
+interests or in the public interest;
 
-• Our server and computers containing data are protected by approved security software and a firewall.
+• Request a copy of an agreement under which Personal Data is transferred
+outside of the EEA;
 
+• Object to decisions based solely on Automated Processing, including profiling
+(Automated Decision Making);
+
+•Prevent Processing that is likely to cause damage or distress to the Data Subject
+or anyone else;
+
+•Be notified of a Personal Data Breach which is likely to result in high risk to their
+rights and freedoms;
+
+• Make a complaint to the supervisory authority (the ICO); and in limited circumstances, receive or ask for their Personal Data to be transferred to a third party in a structured, commonly used and machine readable format.
+
+• We are required to verify the identity of an individual requesting data under any of the
+rights listed above. Members of staff should not allow third parties to persuade them into
+disclosing Personal Data without proper authorisation.
 
 
 
