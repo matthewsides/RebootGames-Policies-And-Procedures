@@ -100,7 +100,11 @@ Human Risk is essentially a broad term for purposeful or accidental  events caus
 
 #### Data Protection Policy 
 
+##### Introduction
+
 It is a legal requirement for the company to comply with the Data Protection Act, 1998. It is also Reboot Games policy to ensure that every employee maintains the confidentiality of any personal data held by the company in whatever form.
+
+##### Purpose
 
 This policy sets out how the company deals with personal information correctly and securely and in accordance with the Data Protection Act 1998, and other related legislation
 
