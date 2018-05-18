@@ -173,6 +173,8 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 
 #### [7] RESPONSIBILITIES	
 
+All employees whether current or past are expected to keep all data confidental and have a responsibility to protect any data that has not been deemed or allowed for public access by either the data holder or whom the data may concern. Though specific roles have been delegated out in order to ensure the proper use of data and that legislations are abided by and followed.
+
 ##### Data Protection Officer
 
 The Data Protection Officer (the “DPO”) is responsible for ensuring Reboot Games is compliant with the GDPR and with this policy.Any questions or concerns about the operation of this policy should be referred in the first instance to the DPO.
