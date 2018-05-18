@@ -83,12 +83,14 @@ An internal risk is a risk that arises from the events taking place within a org
 
 ####  External 
 
+
 #### Software Based
 
-####  Social engineering
 
-Social engineering relates to 
-It is important to note and ...
+
+#### Social engineering
+
+Social engineering refers to the exploitation of human psychological and people's inherent trust, manipulating people into performing actions or divulging confidential information relating to an organisation.The natural inclination to trust is usually the target of exploitation thus it is important to be aware of who and what to trust.Knowing when, and when not to, to take a person at their word; when to trust that the person in communication is indeed the person stated or thought to be; when to trust that a website is or isn’t legitimate; when to trust that the person on the phone is or isn’t legitimate; when providing information is or isn’t a good idea.
 
 #### Human Risk
 
