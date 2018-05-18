@@ -106,11 +106,11 @@ Human Risk is essentially a broad term for purposeful or accidental  events caus
 
 The objectives of this Data Protection Policy are to ensure that Reboot games employees are informed about, and comply with, their obligations under the General Data Protection Regulation (“the GDPR”) and other data protection legislations.
 
-Reboot games has a right to inform their employees as to how their personal information is handled. During the course of our activities we will Process personal information about a number of different groups of people and we recognise that we need to treat it in an appropriate and lawful
-manner.
+Reboot games has a right to inform their employees as to how their personal information is handled. During the course of our activities we will Process personal information about a number of different groups of people and we recognise that we need to treat it in an appropriate and lawful manner.
 
-The type of information that we may be required to handle include details of job applicants, current, past and prospective employees, pupils, parents / carers and other members of pupils’ families, governors, suppliers and other individuals that we
-communicate with. The information, which may be held on paper or on a computer or other media, is subject to certain legal safeguards specified in the GDPR and other legislation. The GDPR imposes restrictions on how we may use that information.
+The type of information that we may be required to handle include details of job applicants, current, past and prospective employees and other individuals that we communicate with. The information, which may be held on paper or on a computer or other media, is subject to certain legal safeguards specified in the GDPR and other legislation. The GDPR imposes restrictions on how we may use that information.
+
+This policy does not form part of any employee’s contract of employment and may be amended at any time. Any breach of this policy by members of staff will be taken seriously and may result in disciplinary action and serious breaches may result in dismissal. Breach of the GDPR may expose Reboot Games to enforcement action by the Information Commissioner’s Office (ICO), including the risk of fines. Furthermore, certain breaches of the Act can give rise to personal criminal liability for the companys employees. At the very least, a breach of the GDPR could damage Reboot Games reputation and have serious consequences for Reboot games and the stakeholders.
 
 
 ##### What is Personal Information/ data?
