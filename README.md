@@ -31,13 +31,7 @@
      Reporting	
      Records management	
 
-    8 RELATED LEGISLATION AND DOCUMENTS	
-
-    9 FEEDBACK
-
-    10 APPROVAL AND REVIEW DETAILS	
-
-    11 APPENDIX <or APPENDICES> <delete if not required>	
+    8 APPENDIX <or APPENDICES> <delete if not required>	
 
 
 
