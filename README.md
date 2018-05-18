@@ -74,6 +74,7 @@ System type - 64-bit operating system, x64-based processor
 
 ####  Physical Risks
 
+Physical risks pertain to; fires, floods, natural disasters, burglary, theft, vandalism and terrorism. Physical security is the protection of personnel, hardware, software, networks and data from physical actions and events that could cause serious loss or damage to an enterprise, agency or institution. 
 
 ####  Internal 
 
