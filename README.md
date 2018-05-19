@@ -28,8 +28,8 @@
    
     7 PROCEDURES
       Security Awareness, Identity Cards,
-      Remote Access, VPN, Firewalls
-      DMZ, static IP, NAT
+      Remote Access, VPN, Firewalls, 
+      Network Security
     
         
     8 RESPONSIBILITIES	
@@ -207,11 +207,22 @@ Staff using personal computers (as opposed to the computers on company grounds) 
 • Ensuring that the machine is protected by a firewall, anti-virus software and the installation of security updates;
 
 
+#### Network Security
+
+The security of Reboot Games network is integral to the protection of all data held allows the abidement of certain legistlations ensuring the company is not violating any laws set by the goverment or an external governing body.
+
+##### DMZ
+
+##### static IP
+
+##### NAT
+
+
 #### [8] RESPONSIBILITIES	
 
 All employees whether current or past are expected to keep all data confidental and have a responsibility to protect any data that has not been deemed or allowed for public access by either the data holder or whom the data may concern. Though specific roles have been delegated out in order to ensure the proper use of data and that legislations are abided by and followed.
 
-##### Data Protection Officer
+#### Data Protection Officer
 
 The Data Protection Officer (the “DPO”) is responsible for ensuring Reboot Games is compliant with the GDPR and with this policy.Any questions or concerns about the operation of this policy should be referred in the first instance to the DPO.
 
