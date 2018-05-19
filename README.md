@@ -184,7 +184,9 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 
 •  Ground-floor windows (and curtains or blinds) should be closed at dusk and lights should be turned off when leaving.
 
+#### Identity Cards
 
+All employees are issued with Identification cards (ID) , which is used for library, identity, student registration and access control. All employees are eligible for such ID cards in order to gain access to the grounds, however only those whom require or are of a certain access level can open all rooms (card restrictions based on level).  ID cards are valid for the duration of the individual’s contract. These cards should be regarded in security terms as the same as a key and remain the property of Reboot Games. Cardholders must safeguard their card and report any loss to the company. ID cards are not transferable, and holders must not loan their card to other persons for means of access or for any other purpose. Disciplinary action may be taken by the company for the misuse of the organisations cards.
 
 
 Remote Access
