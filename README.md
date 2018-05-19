@@ -209,7 +209,7 @@ Staff using personal computers (as opposed to the computers on company grounds) 
 
 #### Network Security
 
-The security of Reboot Games network is integral to the protection of all data held allows the abidement of certain legistlations ensuring the company is not violating any laws set by the goverment or an external governing body.
+The security of Reboot Games network is integral to the protection of all data held allows the abidement of certain legistlations ensuring the company is not violating any laws set by the goverment or an external governing body. The below are possibilities that could be explored to ensure that the network is secure;
 
 ##### DMZ
 
