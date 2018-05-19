@@ -62,17 +62,14 @@ Reboot Games comprises of two levels of access, Tutor and Student. The two level
 
 ####  Hardware and Software
 
-LG - 29UM68-P - 29" 21:9 UltraWide® Full HD IPS LED Monitor (29" Diagonal)
-
-System - DELL XPS 8920 3GHz i5-7400 Tower Black PC HN7RP
-
-OS - Windows 10 - Edition Enterprise 2016 LTSB
-
-Processor - Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz 3.60GHz
-
-Installed RAM - 16.0 GB
-
-System type - 64-bit operating system, x64-based processor 
+|         |                                                                            |
+|---------|----------------------------------------------------------------------------|
+| Monitor | LG - 29UM68-P - 29" 21:9 UltraWide® Full HD IPS LED Monitor (29" Diagonal) |
+| System  | DELL XPS 8920 3GHz i5-7400 Tower Black PC HN7RP                            |
+| OS      | Windows 10 - Edition Enterprise 2016 LTSB                                  |
+| Processor | Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz 3.60GHz                          |
+|Installed RAM |  16.0 GB                                                              |
+| System type | 64-bit operating system, x64-based processor                           |
 
 #### [4] RISKS
 
