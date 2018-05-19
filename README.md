@@ -28,7 +28,7 @@
    
     7 PROCEDURES
      Security Awareness, Identity Cards,
-     Remote Access, Networks, VPN, Firewalls
+     Remote Access, VPN, Firewalls
      DMZ, static IP, NAT
     
         
@@ -40,9 +40,6 @@
     9 APPENDIX <or APPENDICES> <delete if not required>	
     
      
-        Networks, VPN, Firewalls
-        DMZ, static IP, NAT
-    
 
 
 
@@ -105,13 +102,15 @@ Social engineering refers to the exploitation of human psychological and people'
 Human Risk is essentially a broad term for purposeful or accidental  events caused by a human that may affect an organisation's operational status and financial results. This encompassess all aspects or risk factors (internal, external, software based, social engineering, physical, generally all stem from a humans mistakes or malicious intentions).
 
 
- 5 IOS STANDARDS
+ #### [5] IOS STANDARDS
  
- The ISO is 
-      ISO 31000
+The International Organisation for Standardisation (ISO) is an international standard-setting body composed of representatives from various national standards organizations. The organisation primarly creates and promotes proprietary, industrial and commercial standards. Theses standards are essentially guidelines for products or systems to ensure safety, efficiency and quality.
+
+#### ISO 31000
+
+ISO 31000 is the international standard relating to risk management, providing comprehensive principles and guidelines, this standard helps organizations with their risk analysis and risk assessments. ISO 31000:2018 is one of the most recent and notable guidelines that comes under ISO 31000 providing principles, framework and a process for managing risk. The structure and guidelines can be applied to any organization regardless of its size, activity or sector.
       
-      
-#### [5] POLICIES 
+#### [6] POLICIES 
 
 #### Data Protection Policy 
 
@@ -155,7 +154,7 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 
 • We are required to verify the identity of an individual requesting data under any of the rights listed above. Members of staff should not allow third parties to persuade them into disclosing Personal Data without proper authorisation.
 
-#### [6]  PROCEDURES
+#### [7]  PROCEDURES
 
 #### Data Protection Procedures
 
