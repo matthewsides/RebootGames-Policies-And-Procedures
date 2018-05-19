@@ -213,6 +213,11 @@ The security of Reboot Games network is integral to the protection of all data h
 
 ##### DMZ
 
+A Demilitarized Zone is a segment of a network isolated from the rest for the purpose of public use. Further delving into the application for Reboot Games network, the local intranet could be made unknown to the servers by putting the servers on another network segment. This would essentially improve the networks security as the likelyhood of foreign access (attacks) would decrease as the two servers store no information about the internal network, and any connections to Web services are seen as coming from just another IP address that has been allotted from the ISP. 
+
+This would mean that if one server is compromised, the attacker will still have trouble accessing the local network as the only accessibility to the LAN would stil be through the hardware firewall/router. Thus nullifying the use of the servers to access the LAN as the attackers would still have to go through the same obstacles as if they were attempting direct access (from their own systems),leaving no back alleys to Reboots private data.
+
+
 ##### static IP
 
 ##### NAT
