@@ -20,21 +20,27 @@
       Software Based
       Social engineering
       
-    5 POLICIES 
+    5 IOS STANDARDS
+      IOS 31000
+      
+    6 POLICIES 
       Data Protection Policy
    
-    6 DATA PROTECTION PROCEDURE
-      
-    7 SECURITY PROCEDURES
-        Networks, VPN, Firewalls
-        DMZ, static IP, NAT
-    
+    7 PROCEDURES
+     Security Awareness, Identity Cards,
+     Remote Access
+        
     8 RESPONSIBILITIES	
      Compliance, monitoring and review	
      Reporting	
      Records management	
 
     9 APPENDIX <or APPENDICES> <delete if not required>	
+    
+     
+        Networks, VPN, Firewalls
+        DMZ, static IP, NAT
+    
 
 
 
