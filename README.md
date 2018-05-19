@@ -172,7 +172,30 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 
 • We are required to verify the identity of an individual requesting data under any of the rights listed above. Members of staff should not allow third parties to persuade them into disclosing Personal Data without proper authorisation.
 
-#### [7] RESPONSIBILITIES	
+#### Security Awareness Procedures
+
+• All suspicious activity should be immediately reported to the reception staff in the first instance (who will contact appropriate security).
+
+•  Personal valuables should be locked away, placed out of sight or kept on the person. Personal property should never be left unattended.
+
+• Offices must be locked upon leaving, with windows closed and locked
+
+•  Laptops should not be left unattended and must be locked out of sight when not in use, particularly overnight. In open areas, laptops should be either secured to the desk with a steel enclosure or security cable or locked away when not in use in a secure cabinet
+
+•  Ground-floor windows (and curtains or blinds) should be closed at dusk and lights should be turned off when leaving.
+
+
+
+
+Remote Access
+Only trusted machines, not public kiosk machines, should be used to connect to the University network remotely.
+
+Staff using personal computers (as opposed to University computers) to access University systems must protect University data by:
+ensuring that the machine is protected by a firewall, anti-virus software and the installation of security updates;
+
+
+
+#### [8] RESPONSIBILITIES	
 
 All employees whether current or past are expected to keep all data confidental and have a responsibility to protect any data that has not been deemed or allowed for public access by either the data holder or whom the data may concern. Though specific roles have been delegated out in order to ensure the proper use of data and that legislations are abided by and followed.
 
