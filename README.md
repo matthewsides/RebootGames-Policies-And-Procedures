@@ -22,18 +22,19 @@
       
     5 POLICIES 
       Data Protection Policy
+   
+    6 DATA PROTECTION PROCEDURE
       
-       
-    6 PROCEDURES
-      Data Protection Procedures
-      Grounds Access
+    7 SECURITY PROCEDURES
+        Networks, VPN, Firewalls
+        DMZ, static IP, NAT
     
-    7 RESPONSIBILITIES	
+    8 RESPONSIBILITIES	
      Compliance, monitoring and review	
      Reporting	
      Records management	
 
-    8 APPENDIX <or APPENDICES> <delete if not required>	
+    9 APPENDIX <or APPENDICES> <delete if not required>	
 
 
 
