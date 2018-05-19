@@ -28,7 +28,9 @@
    
     7 PROCEDURES
      Security Awareness, Identity Cards,
-     Remote Access
+     Remote Access, Networks, VPN, Firewalls
+     DMZ, static IP, NAT
+    
         
     8 RESPONSIBILITIES	
      Compliance, monitoring and review	
