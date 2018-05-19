@@ -26,7 +26,7 @@
        
     6 PROCEDURES
       Data Protection Procedures
-      Security Grounds Access
+      Grounds Access
     
     7 RESPONSIBILITIES	
      Compliance, monitoring and review	
