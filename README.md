@@ -20,8 +20,8 @@
       Software Based
       Social engineering
       
-    5 IOS STANDARDS
-      IOS 31000
+    5 ISO STANDARDS
+      ISO 31000
       
     6 POLICIES 
       Data Protection Policy
@@ -102,7 +102,7 @@ Social engineering refers to the exploitation of human psychological and people'
 Human Risk is essentially a broad term for purposeful or accidental  events caused by a human that may affect an organisation's operational status and financial results. This encompassess all aspects or risk factors (internal, external, software based, social engineering, physical, generally all stem from a humans mistakes or malicious intentions).
 
 
- #### [5] IOS STANDARDS
+ #### [5] ISO STANDARDS
  
 The International Organisation for Standardisation (ISO) is an international standard-setting body composed of representatives from various national standards organizations. The organisation primarly creates and promotes proprietary, industrial and commercial standards. Theses standards are essentially guidelines for products or systems to ensure safety, efficiency and quality.
 
