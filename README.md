@@ -107,8 +107,6 @@ The type of information that we may handle include details of job applicants, cu
 
 This policy does not form part of any employee’s contract and may be amended at any time. Any breach of this policy by members of staff will be taken seriously and may result in disciplinary action and serious breaches may result in dismissal. Breach of the GDPR may expose Reboot Games to enforcement action by the Information Commissioner’s Office (ICO), including the risk of fines. Furthermore, certain breaches of the Act can give rise to personal criminal liability for the companys employees. At the very least, a breach of the GDPR could damage the companys reputation and have serious consequences for Reboot games and our stakeholders.
 
-##### Data protection principles
-
 
 #### [6]  PROCEDURES
 
