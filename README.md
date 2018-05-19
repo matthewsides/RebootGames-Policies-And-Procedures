@@ -222,6 +222,9 @@ Though if the appropriate practices are followed, firewalls, security, ect. are 
 
 ##### NAT
 
+Network Address Translation allows a single device, such as a router, to act as an agent between the Internet (or "public network") and a local (or "private") network. This means that only a single, unique IP address is required to represent an entire group of computers.
+
+The introduction of NAT in Reboot Games network would conserve the number of globally valid IP addresses required. Though with regards to network security NAT is not explicitly noted to add security to a network. However NAT does mask the IP address of the device, thus in the event of a breach it would be hard to stage an attack as the IP addresses would be hidden from view.
 
 #### [8] RESPONSIBILITIES	
 
