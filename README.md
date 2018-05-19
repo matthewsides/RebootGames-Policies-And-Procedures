@@ -218,6 +218,8 @@ An IP address is an unique identifier used for devices accross networks, the add
 
 The benefits of Reboot games network utilising a static IP address is that physical access to a computer would be required to alter the IP address. Where as if a Dynamic IP(DHCP) is configured in a PC, any User using the network could create a fake DHCP Server in the Network using their own  PC so that when an IP Request is sent the fake DHCP server can reply. Thus allocating the PC their IP as the default gateway and DNS server address meaning that it is possible to spoof ingoing packages, capable in principle of making any changes desired. 
 
+Though if the appropriate practices are followed, firewalls, security, ect. are up to date it should not necessary make a difference in whether a Static or Dynamic IP address is used. 
+
 ##### NAT
 
 
