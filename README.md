@@ -27,15 +27,15 @@
       Data Protection Policy
    
     7 PROCEDURES
-     Security Awareness, Identity Cards,
-     Remote Access, VPN, Firewalls
-     DMZ, static IP, NAT
+      Security Awareness, Identity Cards,
+      Remote Access, VPN, Firewalls
+      DMZ, static IP, NAT
     
         
     8 RESPONSIBILITIES	
-     Compliance, monitoring and review	
-     Reporting	
-     Records management	
+      Compliance, monitoring and review	
+      Reporting	
+      Records management	
 
     9 APPENDIX <or APPENDICES> <delete if not required>	
     
