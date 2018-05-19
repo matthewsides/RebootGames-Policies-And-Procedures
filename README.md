@@ -13,11 +13,8 @@
       Hardware and Software
        
     4 RISKS
-      Human Risks
-      Physical Risks
-      Internal 
-      External 
-      Software Based
+      Human Risks, Physical Risks,  Internal 
+      External, Software Based,
       Social engineering
       
     5 ISO STANDARDS
@@ -215,7 +212,11 @@ A Demilitarized Zone is a segment of a network isolated from the rest for the pu
 This would mean that if one server is compromised, the attacker will still have trouble accessing the local network as the only accessibility to the LAN would stil be through the hardware firewall/router. Thus nullifying the use of the servers to access the LAN as the attackers would still have to go through the same obstacles as if they were attempting direct access (from their own systems),leaving no back alleys to Reboots private data.
 
 
-##### static IP
+##### Static IP
+
+An IP address is an unique identifier used for devices accross networks, the address for a device is dynamic meaning that it changes after reseting the device/system. A Static IP address however is fixed to the connection and device not changing.
+
+The benefits of Reboot games network utilising a static IP address is that physical access to a computer would be required to alter the IP address. Where as if a Dynamic IP(DHCP) is configured in a PC, any User using the network could create a fake DHCP Server in the Network using their own  PC so that when an IP Request is sent the fake DHCP server can reply. Thus allocating the PC their IP as the default gateway and DNS server address meaning that it is possible to spoof ingoing packages, capable in principle of making any changes desired. 
 
 ##### NAT
 
