@@ -186,15 +186,14 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 
 #### Identity Cards
 
-All employees are issued with Identification cards (ID) , which is used for library, identity, student registration and access control. All employees are eligible for such ID cards in order to gain access to the grounds, however only those whom require or are of a certain access level can open all rooms (card restrictions based on level).  ID cards are valid for the duration of the individual’s contract. These cards should be regarded in security terms as the same as a key and remain the property of Reboot Games. Cardholders must safeguard their card and report any loss to the company. ID cards are not transferable, and holders must not loan their card to other persons for means of access or for any other purpose. Disciplinary action may be taken by the company for the misuse of the organisations cards.
+All employees are issued with Identification cards (ID) , which is used for library, identity, student registration and access control. All employees are eligible for such ID cards in order to gain access past the barriers to the inner grounds (outer area is open to the public), however only those whom require or are of a certain access level can open all rooms (card restrictions based on level).  ID cards are valid for the duration of the individual’s contract. These cards should be regarded in security terms as the same as a key and remain the property of Reboot Games. Cardholders must safeguard their card and report any loss to the company. ID cards are not transferable, and holders must not loan their card to other persons for means of access or for any other purpose. Disciplinary action may be taken by the company for the misuse of the organisations cards.
 
 
-Remote Access
-Only trusted machines, not public kiosk machines, should be used to connect to the University network remotely.
+#### Remote Access
 
-Staff using personal computers (as opposed to University computers) to access University systems must protect University data by:
-ensuring that the machine is protected by a firewall, anti-virus software and the installation of security updates;
+Only trusted machines, not public kiosk machines, should be used to connect to Reboot games network remotely.
 
+Staff using personal computers (as opposed to the computers on company grounds) to access Reboot Games systems must protect Reboots data by: ensuring that the machine is protected by a firewall, anti-virus software and the installation of security updates;
 
 
 #### [8] RESPONSIBILITIES	
