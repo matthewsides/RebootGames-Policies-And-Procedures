@@ -115,8 +115,6 @@ This policy does not form part of any employee’s contract and may be amended a
 
 #### Data Protection Procedures
 
-##### Procedure
-
 • When data is stored on paper, it will be kept in a secure place where unauthorised people cannot see it. The following procedures also apply to data that is usually stored electronically but has been printed out for some reason:
 
 • When not required, the paper or files will be kept in a lock drawer, cupboard or filing cabinet;
