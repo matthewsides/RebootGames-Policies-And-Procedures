@@ -268,6 +268,10 @@ should be considered include the following:
 
 #### [9] DISASTER RECOVERY PLAN  
 
+#### Back Up Check
 
+#### Detailed asset inventory
 
+#### Communication plan and role assignments
 
+#### Data continuity system
