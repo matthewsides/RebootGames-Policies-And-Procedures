@@ -34,7 +34,7 @@
       Reporting	
       Records management	
 
-    9 APPENDIX <or APPENDICES> <delete if not required>	
+    9 Disaster Recovery Plan
     
      
 
