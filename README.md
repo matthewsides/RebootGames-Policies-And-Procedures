@@ -34,7 +34,7 @@
       Reporting	
       Records management	
 
-    9 Disaster Recovery Plan
+    9 DISASTER RECOVERY PLAN  
     
      
 
@@ -265,6 +265,8 @@ should be considered include the following:
 • A DPO appointed internally by Reboot Games is permitted to undertake other tasks and duties for the organisation, but these must not result in a conflict of interests with his or her role as DPO. It follows that any conflict of interests between the individual's role as DPO and other roles the individual may have within the organisation impinge on the DPO's ability to remain independent.
 
 • In order to avoid conflicts the DPO cannot hold another position within the organisation that involves determining the purposes and means of processing personal data. 
+
+#### [9] DISASTER RECOVERY PLAN  
 
 
 
