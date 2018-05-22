@@ -272,9 +272,9 @@ should be considered include the following:
 
 #### Detailed asset inventory
 
-#### Communication plan and role assignments
+#### Communication plan and Role assignments
 
-In the event of a disaster responisbilities should be made clear to ensure a swift and efficent recovery of operations. Theses responsibilities should be delegated to each member of the organisation to be addressed.
+In the event of a disaster responisbilities should be made clear to ensure a swift and efficent recovery of operations. Theses responsibilities should be delegated to each member of the organisation to be addressed. Whilst a communication plan should also be stretched out incase certain employees are absent or based elsewhere in the event of a disater. Through an ordered and structured system it should better stretch resources, ensuring that work is not duplicated and lessen the probability of chaos. The absence of such a plan and role outline would leave the organisation in chaos during the recovery of important assets.
 
 
 #### Data continuity system
