@@ -274,6 +274,9 @@ should be considered include the following:
 
 #### Communication plan and role assignments
 
+In the event of a disaster responisbilities should be made clear to ensure a swift and efficent recovery of operations. Theses responsibilities should be delegated to each member of the organisation to be addressed.
+
+
 #### Data continuity system
 
 Understanding what the organization needs operationally, financially, with regard to supplies, and with communications is necessary.This is to ensure that alternate processes are run in place to carry out key operational functions. Thus continuing operations despite complications regarding the work enviroment/equipment.
