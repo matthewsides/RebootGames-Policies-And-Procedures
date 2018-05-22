@@ -268,9 +268,14 @@ should be considered include the following:
 
 #### [9] DISASTER RECOVERY PLAN  
 
-#### Back Up Check
+#### Back Up/Check
+
+The use back ups are crucial in recovering after a disaster as systems or lost data can automatically be restored, thus allieveating the work required by the organisation as a new system is not required to be implemented. Whilst data accumalted through time or documents drawn up do not have to be redone. The act of keeping back ups in check is also critical to disaster recovery as employees should always check the status of the back ups to ensure that in the event of a disaster the compnay is not left with no options regarding recovery and would have to start again.
+
 
 #### Detailed asset inventory
+
+
 
 #### Communication plan and Role assignments
 
