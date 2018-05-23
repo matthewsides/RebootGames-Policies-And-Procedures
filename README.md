@@ -231,11 +231,9 @@ The introduction of NAT in Reboot Games network would conserve the number of glo
 
 The factors that are required to be considered and seen as an issue during configuration and  when setting fire wall policies is authorisation. Authorisation meaning whom should have access to what, whether its relating to specific sites, ability to download or the firewall. The implementation of a tiered structure that decides the level of access based on the role in the company is integral as the lack of an authorisation plan could lead to security breaches, with employees downloading potentionally malicious data or slacking off work through accessing  unrelated sites. Whilst if the firewall is accessable to all employees those whom do not have a clear understanding or technical background could configure the firewall either accidently or in an attempt to fix somthing thus causing problems to the network. Access to the firewall would also enable those with malicious intent within the company to work with external sources to download malicious software or give access to people not within the internal team.
 
-Authorisation
+Further linking into the issues and authorisation point, broad policy configurations are another problem with setting up firewall policies. It is nessaccarry to consider what to filter or block on the network as complete restriction to the majority of sites could hinder the work done as employees require access to certain sites in order to complete their work. However excess moderation would be needed by employees as although restrictions could slow operations a broader level of access could cause employees to get distracted. 
 
-broad network (what needs to be considered ok and whats not /filter /block out)
-
-Further linking into the issues and authorisation point, broad policy configurations are another problem with setting up firewall policies.
+Thus considering the issues of firewall policies, with regards to Reboot games it is suggested to factor the purpose of the company, what the employees need to work and what would be an extra consideration. This mindset would also help with setting up the access levels as depending on what is needed for each sector of the organisation or for each employee would determine the level of access (less restrictions). Reboot Games access to the firewall would have to be handled by the ICT sector as they have the knowledge required to monitor and maintain the firewall (prior experience). Whilst as alliterated access and filtering will be decided based on the companys purpose and what the employee require in relation to working and bettering the company.
 
 ##### Third Party VPN's
 
