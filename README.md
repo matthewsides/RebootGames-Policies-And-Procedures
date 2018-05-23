@@ -326,7 +326,7 @@ The use back ups are crucial in recovering after a disaster as systems or lost d
 
 #### Detailed asset inventory
 
-Through keeping a detailed asset inventory it would be plausable to know what is missing or requires replacing in the event of a disaster, noting down the assets to specific makes.
+Through keeping a detailed asset inventory it would be plausable to know what is missing or requires replacing in the event of a disaster, noting down the assets to specific makes. This practice is also benefical to keeping track of the organisations finances as to whats being purchased and security regarding whats missing or what has been removed from the premises. 
 
 
 
@@ -338,6 +338,14 @@ In the event of a disaster responisbilities should be made clear to ensure a swi
 #### Data continuity system
 
 Understanding what the organization needs operationally, financially, with regard to supplies, and with communications is necessary.This is to ensure that alternate processes are run in place to carry out key operational functions. Thus continuing operations despite complications regarding the work enviroment/equipment.
+
+#### Testing
+
+Testing the resilence and effectiveness of the plan consistently and reflecting on ways to improve is important as disasiter recovery methods are better refined the time required to spend recovering from a disaster would lessen. Whilst the familiarity with the plan would ensure all employees are informed about their own roles when it comes to recovery.
+
+#### Recovery Proccess
+
+The recovery process defines what important assets need protecting in the event of disaster and what should be prioritised. Theses assets are generally what a company requires to run so the efforts that go into the recovery must be maximised. Other such applications or assets that are used but not important to the company can be tended to or recovered afterwards. This component is critical in quickly regaining operations, a result in which could cause massive financial damage or losses being unable to retain assets or purchase (procure) new assets.
 
 
 
