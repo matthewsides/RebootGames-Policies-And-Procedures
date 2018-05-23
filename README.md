@@ -148,6 +148,7 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 
 • We are required to verify the identity of an individual requesting data under any of the rights listed above. Members of staff should not allow third parties to persuade them into disclosing Personal Data without proper authorisation.
 
+
 #### [7]  PROCEDURES
 
 #### Data Protection Procedures
