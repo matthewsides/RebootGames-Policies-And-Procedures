@@ -34,8 +34,6 @@
 
     9 DISASTER RECOVERY PLAN  
     
-    
-    10 RISK ASSESSMENT PROCEDURES
      
 
 
@@ -148,6 +146,12 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 
 • We are required to verify the identity of an individual requesting data under any of the rights listed above. Members of staff should not allow third parties to persuade them into disclosing Personal Data without proper authorisation.
 
+#### Risk Assessment
+
+The purpose of this policy and procedure (noted below) is to meet the requirements of the Management of Health and Safety at Work Regulations (1999) to carry out a suitable and sufficient risk assessment.
+
+Employers are required to identify and assess the health and safety risks to workers and any others who may be affected by their work or business, and to manage those risks by putting in place appropriate control measures to remove or reduce the risk of harm to an acceptable level.
+
 
 #### [7]  PROCEDURES
 
@@ -177,6 +181,19 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 
 • Our server and computers containing data are protected by approved security software and a firewall.
 
+#### Risk Assessment
+
+A risk assessment is a careful examination of what, in the workplace, could cause harm to people; to facilitate an evaluation of any precautions in place and whether further preventative measures are required. Risk assessment is a pro-active process by which; Hazards are identified, the risks associated with the hazard are evaluated, appropriate methods to eliminate or control the hazard evaluated.
+
+• Identify Hazards: walk around the work place, look at work activities, location, equipment used, exposure to substances, considering recent events and speak to staff, managers and students;
+
+• Evaluate the risks: What controls are in place?, Is the remaining risk acceptable?, Are further precautions required to eliminate or reduce the risk further?;
+
+• Record and archive the findings, communicating assessments to staff and any other person(s) affected by the work activities;
+
+• Review assessments: Assessments should be reviewed every 2 years, or earlier, if it is suspected that the assessment is no longer valid.
+
+
 #### Security Awareness Procedures
 
 • All suspicious activity should be immediately reported to the reception staff in the first instance (who will contact appropriate security).
@@ -188,6 +205,7 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 •  Laptops should not be left unattended and must be locked out of sight when not in use, particularly overnight. In open areas, laptops should be either secured to the desk with a steel enclosure or security cable or locked away when not in use in a secure cabinet
 
 •  Ground-floor windows (and curtains or blinds) should be closed at dusk and lights should be turned off when leaving.
+
 
 #### Identity Cards
 
@@ -303,7 +321,7 @@ In the event of a disaster responisbilities should be made clear to ensure a swi
 
 Understanding what the organization needs operationally, financially, with regard to supplies, and with communications is necessary.This is to ensure that alternate processes are run in place to carry out key operational functions. Thus continuing operations despite complications regarding the work enviroment/equipment.
 
-#### [10] RISK ASSESSMENT PROCEDURES
+
 
 
 
