@@ -185,11 +185,23 @@ Employers are required to identify and assess the health and safety risks to wor
 
 A risk assessment is a careful examination of what, in the workplace, could cause harm to people; to facilitate an evaluation of any precautions in place and whether further preventative measures are required. Risk assessment is a pro-active process by which; Hazards are identified, the risks associated with the hazard are evaluated, appropriate methods to eliminate or control the hazard evaluated.
 
-• Identify Hazards: walk around the work place, look at work activities, location, equipment used, exposure to substances, considering recent events and speak to staff, managers and students;
+• Identify Hazards: walk around the work place, look at work activities, location, equipment used, considering recent events and speak to staff, managers and students;
 
-• Evaluate the risks: What controls are in place?, Is the remaining risk acceptable?, Are further precautions required to eliminate or reduce the risk further?;
+• Evaluate the risks: What controls are in place?, Is the remaining risk acceptable?, Are further precautions required to eliminate or reduce the risk further?:
 
 • Record and archive the findings, communicating assessments to staff and any other person(s) affected by the work activities;
+
+• Review assessments: Assessments should be reviewed every 2 years, or earlier, if it is suspected that the assessment is no longer valid.
+
+Risk assessment in regards to information is checking what information could cause potential harm to the company or a persons image; to facilitate an evaluation of any precautions in place and whether further preventative measures are required.
+
+• Identify important information: Browse through documents, data bases, papers, etc. Considering the importance and impact of the information;
+
+• Outline risks or potentional risks: What is feasible?;
+
+• Evaluate the risks : What controls are in place?, Is the remaining risk acceptable?, Are further precautions required to eliminate or reduce the risk further?;
+
+• Record and archive the findings, communicating assessments to staff and any other person(s) to either put prevental measures in place or allievate the situation.
 
 • Review assessments: Assessments should be reviewed every 2 years, or earlier, if it is suspected that the assessment is no longer valid.
 
