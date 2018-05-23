@@ -229,7 +229,7 @@ The introduction of NAT in Reboot Games network would conserve the number of glo
 
 ##### Firewall policies configuration issues
 
-The factors that are required to be considered and seen as an issue during configuration and  when setting fire wall policies is authorisation. Authorisation meaning whom should have access to what, whether its relating to specific sites, ability to download or the firewall. The implementation of a tiered structure that decides the level of access based on the role in the company is integral as if the 
+The factors that are required to be considered and seen as an issue during configuration and  when setting fire wall policies is authorisation. Authorisation meaning whom should have access to what, whether its relating to specific sites, ability to download or the firewall. The implementation of a tiered structure that decides the level of access based on the role in the company is integral as the lack of an authorisation plan could lead to security breaches, with employees downloading potentionally malicious data or slacking off work through accessing  unrelated sites. Whilst if the firewall is accessable to all employees those whom do not have a clear understanding or technical background could configure the firewall either accidently or in an attempt to fix somthing thus causing problems to the network. Access to the firewall would also enable those with malicious intent within the company to work with external sources to download malicious software or give access to people not within the internal team.
 
 Authorisation
 
