@@ -207,6 +207,9 @@ Risk assessment in regards to information is checking what information could cau
 
 • Review assessments: Assessments should be reviewed every 2 years, or earlier, if it is suspected that the assessment is no longer valid.
 
+#### Security Procedures 
+
+Security procedures are procedures employed with the purpose of preventing the possibility of a breach, internal or external. Theses procedures are usually step by step or statements relating to specific actions. Theses actions include verifying that an electronic signature, record or performance is that of a specific person or for detecting changes or errors in  information held in an electronic record.
 
 #### Security Awareness Procedures
 
