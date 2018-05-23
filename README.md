@@ -326,6 +326,7 @@ The use back ups are crucial in recovering after a disaster as systems or lost d
 
 #### Detailed asset inventory
 
+Through keeping a detailed asset inventory it would be plausable to know what is missing or requires replacing in the event of a disaster, noting down the assets to specific makes.
 
 
 
