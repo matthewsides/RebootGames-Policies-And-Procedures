@@ -319,7 +319,7 @@ should be considered include the following:
 
 #### [9] DISASTER RECOVERY PLAN  
 
-The risks and trheats whether natural or man-made can cause major disruption to a companys operations or even cause the closure of an organisation. Hence formulating a  Disaster Recovery Plan (DRP) is crucial, the plan usually covers and describes how work can be resumed quickly and effectively after a disaster, suggesting pre-emptive measures and after disaster procedures. The following key elements are important to the disaster recovery plan (main components);
+The risks and trheats whether natural,software or man-made can cause major disruption to a companys operations or even cause the closure of an organisation. Hence formulating a  Disaster Recovery Plan (DRP) is crucial, the plan usually covers and describes how work can be resumed quickly and effectively after a disaster, suggesting pre-emptive measures and after disaster procedures. The following key elements are important to the disaster recovery plan (main components);
 
 #### Back Up/Check
 
