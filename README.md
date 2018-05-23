@@ -229,13 +229,13 @@ The introduction of NAT in Reboot Games network would conserve the number of glo
 
 ##### Firewall policies configuration issues
 
-The factors that are required to be considered and seen as an issue during configuration and  when setting fire wall policies is authorisation. Authorisation meaning whom should have access to what, whether its relating to specific sites, ability to download or the firewall instead.This is  In this regard
+The factors that are required to be considered and seen as an issue during configuration and  when setting fire wall policies is authorisation. Authorisation meaning whom should have access to what, whether its relating to specific sites, ability to download or the firewall. The implementation of a tiered structure that decides the level of access based on the role in the company is integral as if the 
 
 Authorisation
 
 broad network (what needs to be considered ok and whats not /filter /block out)
 
-Broad policy configurations
+Further linking into the issues and authorisation point, broad policy configurations are another problem with setting up firewall policies.
 
 ##### Third Party VPN's
 
