@@ -30,9 +30,7 @@
     
         
     8 RESPONSIBILITIES	
-      Compliance, monitoring and review	
-      Reporting	
-      Records management	
+     
 
     9 DISASTER RECOVERY PLAN  
     
@@ -303,6 +301,8 @@ In the event of a disaster responisbilities should be made clear to ensure a swi
 #### Data continuity system
 
 Understanding what the organization needs operationally, financially, with regard to supplies, and with communications is necessary.This is to ensure that alternate processes are run in place to carry out key operational functions. Thus continuing operations despite complications regarding the work enviroment/equipment.
+
+#### [10] RISK ASSESSMENT PROCEDURES
 
 
 
