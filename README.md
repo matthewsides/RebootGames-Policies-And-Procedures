@@ -239,6 +239,8 @@ Thus considering the issues of firewall policies, with regards to Reboot games i
 
 ##### Third Party VPN's
 
+The issue of utilising third party VPN's to access the companys network is that unless the employee in question is using authorised software to access the network, it would be difficult to gauge what level of access the employee would be given on the network. Thus the employee could theoretically have access and do things usually out of there control. Whilst the system the employee is using to connect to the companys internal network could have malware installed that even the employee could be unaware of, thus leaving the system vulnerable to the malware and trusted system. Therefore Reboot games has a standardised and authorised VPN, that has been configured to give an employee minimal access (required).
+
 #### [8] RESPONSIBILITIES	
 
 All employees whether current or past are expected to keep all data confidental and have a responsibility to protect any data that has not been deemed or allowed for public access by either the data holder or whom the data may concern. Though specific roles have been delegated out in order to ensure the proper use of data and that legislations are abided by and followed.
