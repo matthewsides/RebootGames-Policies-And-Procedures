@@ -319,16 +319,15 @@ should be considered include the following:
 
 #### [9] DISASTER RECOVERY PLAN  
 
+The risks and trheats whether natural or man-made can cause major disruption to a companys operations or even cause the closure of an organisation. Hence formulating a  Disaster Recovery Plan (DRP) is crucial, the plan usually covers and describes how work can be resumed quickly and effectively after a disaster, suggesting pre-emptive measures and after disaster procedures. The following key elements are important to the disaster recovery plan (main components);
+
 #### Back Up/Check
 
 The use back ups are crucial in recovering after a disaster as systems or lost data can automatically be restored, thus allieveating the work required by the organisation as a new system is not required to be implemented. Whilst data accumalted through time or documents drawn up do not have to be redone. The act of keeping back ups in check is also critical to disaster recovery as employees should always check the status of the back ups to ensure that in the event of a disaster the compnay is not left with no options regarding recovery and would have to start again.
 
-
 #### Detailed asset inventory
 
 Through keeping a detailed asset inventory it would be plausable to know what is missing or requires replacing in the event of a disaster, noting down the assets to specific makes. This practice is also benefical to keeping track of the organisations finances as to whats being purchased and security regarding whats missing or what has been removed from the premises. 
-
-
 
 #### Communication plan and Role assignments
 
