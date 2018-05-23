@@ -108,7 +108,7 @@ ISO 31000 is the international standard relating to risk management, providing c
 
 ##### Policy statement and objectives
 
-The objectives of this Data Protection Policy are to ensure that Reboot games employees are informed about, and comply with, their obligations under the General Data Protection Regulation (“the GDPR”) and other data protection legislations.
+The objectives of this Data Protection Policy are to ensure that Reboot games employees are informed about, and comply with, their obligations under the General Data Protection Regulation (“the GDPR”) and other data protection legislations. For instance the data protection act (1998), which controls how personal information (data) is used by businesses and goverments (GDPR is a subset of this act) and the Misuse act. The Misuse act is designed to protect computer users against wilful attacks and theft of information.
 
 Reboot games has a right to inform their employees as to how their personal information is handled. During the course of our activities we will Process personal information about a number of different groups of people and we recognise that we need to treat it in an appropriate and lawful manner.
 
@@ -146,7 +146,7 @@ Data Subjects have rights when it comes to how we handle their Personal Data. Th
 
 • We are required to verify the identity of an individual requesting data under any of the rights listed above. Members of staff should not allow third parties to persuade them into disclosing Personal Data without proper authorisation.
 
-#### Risk Assessment
+#### Work Enviroment Risk Assessment
 
 The purpose of this policy and procedure (noted below) is to meet the requirements of the Management of Health and Safety at Work Regulations (1999) to carry out a suitable and sufficient risk assessment.
 
@@ -181,7 +181,7 @@ Employers are required to identify and assess the health and safety risks to wor
 
 • Our server and computers containing data are protected by approved security software and a firewall.
 
-#### Risk Assessment
+#### Work Enviroment Risk Assessment procedures
 
 A risk assessment is a careful examination of what, in the workplace, could cause harm to people; to facilitate an evaluation of any precautions in place and whether further preventative measures are required. Risk assessment is a pro-active process by which; Hazards are identified, the risks associated with the hazard are evaluated, appropriate methods to eliminate or control the hazard evaluated.
 
@@ -193,7 +193,9 @@ A risk assessment is a careful examination of what, in the workplace, could caus
 
 • Review assessments: Assessments should be reviewed every 2 years, or earlier, if it is suspected that the assessment is no longer valid.
 
-Risk assessment in regards to information is checking what information could cause potential harm to the company or a persons image; to facilitate an evaluation of any precautions in place and whether further preventative measures are required.
+#### Data Risk Assessment procedures
+
+Risk assessment in regards to information is checking what information could cause potential harm to the company or a persons image; to facilitate an evaluation of any precautions in place and whether further preventative measures are required. This is required to ensure compliance with the data protection act, misuse act and GDPR.
 
 • Identify important information: Browse through documents, data bases, papers, etc. Considering the importance and impact of the information;
 
